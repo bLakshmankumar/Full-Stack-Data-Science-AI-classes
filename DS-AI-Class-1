@@ -41,11 +41,11 @@ Tools required for Data analysis :
 
 Tools Required for Data-Scientist :
 ====================================
-1) ML 2) Deep Learning  3) NLP  : If we learn these tools we will become a Data-Scientist.
+1) SQL  2) Python  3) Statistics  4) Visualization tools(Power-BI), Tableau 5) ML 6) Deep Learning 7) NLP 8) Maths  : If we learn these tools we will become a Data-Scientist.
 
 Deployemnt : 
 =============
-Once we develop the ML-Models where we have to deploy : We have to deploy on Cloud, Here we will teach you How to deploy these models on MLops(Machinlearning Operations) inside azure.
+Once we develop the ML-Models where we have to deploy : We have to deploy on Cloud, Here we will teach you How to deploy these models on MLops(Machinlearning Operations) inside azure ML.
 
 Sorce : https://www.youtube.com/watch?v=LNT3dqsELPI :
 =====================================================
