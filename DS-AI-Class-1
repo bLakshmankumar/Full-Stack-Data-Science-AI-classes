@@ -4,6 +4,7 @@ What is Datascience :
 ====================
 Data science is an interdisciplinary field focused on extracting insights from data using a combination of statistical, computational, and domain-specific knowledge. 
 It involves several steps and technologies:
+--------------------------------------------
   Data Collection: Gathering data from various sources such as databases, web scraping, and APIs.
   Data Cleaning: Preparing data by handling missing values, removing duplicates, and correcting errors.
   Data Exploration: Analyzing data patterns and distributions using visualization tools.
@@ -12,7 +13,7 @@ It involves several steps and technologies:
   Deployment: Integrating models into applications for real-time predictions.
 Technologies Used in Data Science:
 ==================================
-  Programming Languages: Python, R
+  Programming Languages: Python,
   Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
   Tools: Jupyter Notebooks, Apache Spark, Hadoop
   Visualization: Matplotlib, Seaborn, Tableau
@@ -22,5 +23,30 @@ Examples:
   Natural Language Processing (NLP): Sentiment analysis on social media posts.
   Computer Vision: Image recognition in autonomous vehicles.
 
-Sorce : https://www.youtube.com/watch?v=LNT3dqsELPI
-===================================================
+Project Lifecycle for DataScience :
+===================================
+Step -1 : Understand the business problem
+Step -2 : Gather the Data  : (By using "sql" queries we should retrive the data from storage)
+Step -3 : Processing the Data (becuase gathered the data might be any format) : We can process the data by using "SQL (or) Python"
+Step -4 : Analyse the Data : We have to analyse each and every column by using "Statistics".
+Step -5 : Develop the Machine-Learning Algorithm (Once develop the Ml-algorithm we have to validate/evalute before giving it to Client). 
+          We can develop model development by using Machine Learning(Banking), Deep Learning(Image anaytics), NLP(Natural language Processing)-(Text-analysis).
+Step -6 : Evaluate the Model ( Here we will verify Metrics for calculate the model errors & etc)
+Step -7 : Handover to Client (or) Model Deployment.
+
+========================================================================================================================================================================================
+Tools required for Data analysis :
+===================================
+ 1) SQL  2) Python  3) Statistics  4) Visualization tools(Power-BI), Tableau). : If we learn these tools we will become a Data-Analyst/Business Anayst/Python Developer/ SQl Admin.
+
+Tools Required for Data-Scientist :
+====================================
+1) ML 2) Deep Learning  3) NLP  : If we learn these tools we will become a Data-Scientist.
+
+Deployemnt : 
+=============
+Once we develop the ML-Models where we have to deploy : We have to deploy on Cloud, Here we will teach you How to deploy these models on MLops(Machinlearning Operations) inside azure.
+
+Sorce : https://www.youtube.com/watch?v=LNT3dqsELPI :
+=====================================================
+
