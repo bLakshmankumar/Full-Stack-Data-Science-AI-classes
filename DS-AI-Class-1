@@ -1,4 +1,26 @@
 Class -1 is a basics overview of the course details-concepts 
 
+What is Datascience :
+====================
+Data science is an interdisciplinary field focused on extracting insights from data using a combination of statistical, computational, and domain-specific knowledge. 
+It involves several steps and technologies:
+  Data Collection: Gathering data from various sources such as databases, web scraping, and APIs.
+  Data Cleaning: Preparing data by handling missing values, removing duplicates, and correcting errors.
+  Data Exploration: Analyzing data patterns and distributions using visualization tools.
+  Modeling: Building predictive models using machine learning algorithms.
+  Evaluation: Assessing model performance with metrics like accuracy, precision, and recall.
+  Deployment: Integrating models into applications for real-time predictions.
+Technologies Used in Data Science:
+==================================
+  Programming Languages: Python, R
+  Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+  Tools: Jupyter Notebooks, Apache Spark, Hadoop
+  Visualization: Matplotlib, Seaborn, Tableau
+Examples:
+========
+  Predictive Analytics: Forecasting sales using historical data.
+  Natural Language Processing (NLP): Sentiment analysis on social media posts.
+  Computer Vision: Image recognition in autonomous vehicles.
+
 Sorce : https://www.youtube.com/watch?v=LNT3dqsELPI
 ===================================================
