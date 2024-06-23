@@ -76,7 +76,7 @@ Some use cases of each technology :
  Underthis ML we have different types :
  --------------------------------------
    1) Supervised learning : If a data has both input columns and output columns we can call it as Supervised learning.
-        Based on output labels supervised learning devided into 2 algorytm types :
+        Based on output labels supervised learning devided into 2 algoritm types :
         --------------------------------------------------------------------------
          A) Classification Algorithms : Means Output label has Categorical/Qualitative data type
              Types in Classification Algorithms :
@@ -96,7 +96,7 @@ Some use cases of each technology :
                > Ridge Regression
    
    2) Unsupervised Learning : If data has no output label and there is no specific target we can call it as Supervised learning.
-       Unsupervised learning devided into 1 algorytm type :
+       Unsupervised learning devided into 1 algoritm type :
        ----------------------------------------------------
            Cluster Algorithm : Cluster algorithms aim to discover hidden patterns in unlabeled data by grouping similar data points together. 
                                Imagine sorting a basket of fruits without labels – a cluster algorithm would put apples with apples and oranges with oranges.
