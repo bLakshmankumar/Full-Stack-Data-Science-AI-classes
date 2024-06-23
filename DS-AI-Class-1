@@ -47,7 +47,7 @@ Deployemnt :
 =============
 Once we develop the ML-Models where we have to deploy : We have to deploy on Cloud, Here we will teach you How to deploy these models on MLops(Machinlearning Operations) inside azure ML.
 
-# Class -2 :
+# Class - 2 :
 ============
 Some use cases of each technology :
 ===================================
@@ -63,6 +63,23 @@ Some use cases of each technology :
  NLP - Usecases :
  ================
     NLP can be used for text analysis(Chat-bot), Review analysis, Spell correction, Document summery & etc.
+
+# Class - 3 :
+=============
+   Output colums have two types :
+   1) Engilsh letters : Categorical data / Qualitative data
+   2) Numbers         : Numerical Data / Quantitative data
+ # What is ML ?
+ ===============
+   Understand the Past data,and make the predictions on your future data.
+
+ Underthis ML we have different types :
+ --------------------------------------
+   1) Supervised learning : If a data has both input columns and output columns we can call it as Supervised learning.
+        Based on output labels supervised learning devided into 2 parts :
+        -----------------------------------------------------------------
+         A) Classification Algorithms : Means Output label has Categorical/Qualitative data type
+         B) Regression Algorithm      : Means Output label has Numerical/Quantitative data type
 
 Sorces : 
 ========
