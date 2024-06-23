@@ -29,10 +29,10 @@ Step -1 : Understand the business problem
 Step -2 : Gather the Data  : (By using "sql" queries we should retrive the data from storage)
 Step -3 : Processing the Data (becuase gathered the data might be any format) : We can process the data by using "SQL (or) Python"
 Step -4 : Analyse the Data : We have to analyse each and every column by using "Statistics".
-Step -5 : Develop the Machine-Learning Algorithm (Once develop the Ml-algorithm we have to validate/evalute before giving it to Client). 
+Step -5 : Model Building   : Develop the Machine-Learning Algorithm (Once develop the Ml-algorithm we have to validate/evalute before giving it to Client)."ML/DL/NLP"
           We can develop model development by using Machine Learning(Banking), Deep Learning(Image anaytics), NLP(Natural language Processing)-(Text-analysis).
-Step -6 : Evaluate the Model ( Here we will verify Metrics for calculate the model errors & etc)
-Step -7 : Handover to Client (or) Model Deployment.
+Step -6 : Evaluate the Model ( Here we will verify "Metrics" for calculate the model errors & etc)
+Step -7 : Handover to Client (or) Model Deployment. - "Azure ML"
 
 ========================================================================================================================================================================================
 Tools required for Data analysis :
@@ -68,4 +68,5 @@ Sorces :
 ========
 https://www.youtube.com/watch?v=LNT3dqsELPI (Class-1)
 https://www.youtube.com/watch?v=6bTjPxLW8ng (Class-2)
+https://www.youtube.com/watch?v=GyWXEU (Class-3)
 
