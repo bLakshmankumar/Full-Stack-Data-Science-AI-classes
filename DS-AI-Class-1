@@ -47,6 +47,26 @@ Deployemnt :
 =============
 Once we develop the ML-Models where we have to deploy : We have to deploy on Cloud, Here we will teach you How to deploy these models on MLops(Machinlearning Operations) inside azure ML.
 
-Sorce : https://www.youtube.com/watch?v=LNT3dqsELPI :
-=====================================================
+
+Class -2 :
+===========
+Some use cases of each technology :
+===================================
+ ML - Usecaase :
+ ===============
+   ML can be used for Stock-prediction, Loan predection, Forecasting.
+
+ Deep Learning - usecases :
+ ==========================
+   DL can be used for Image analytics, Object detection, Video detection, Face detection.
+   Image means using Deep learning algorithms
+
+ NLP - Usecases :
+ ================
+    NLP cal be used for text analysis(Chat-bot), Review analysis, Spell correction, Document summery & etc.
+
+Sorces : 
+========
+https://www.youtube.com/watch?v=LNT3dqsELPI (Class-1)
+https://www.youtube.com/watch?v=6bTjPxLW8ng (Class-2)
 
