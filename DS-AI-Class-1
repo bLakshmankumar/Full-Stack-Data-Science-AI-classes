@@ -76,11 +76,51 @@ Some use cases of each technology :
  Underthis ML we have different types :
  --------------------------------------
    1) Supervised learning : If a data has both input columns and output columns we can call it as Supervised learning.
-        Based on output labels supervised learning devided into 2 parts :
-        -----------------------------------------------------------------
+        Based on output labels supervised learning devided into 2 algorytm types :
+        --------------------------------------------------------------------------
          A) Classification Algorithms : Means Output label has Categorical/Qualitative data type
+             Types in Classification Algorithms :
+             ------------------------------------
+               > Logistic Regression *
+               > Decesion Tree
+               > K-Nearest Nighbours
+               > Native Bayes
+               > Support Vector machines
+               > Random Forest *
+               > Boosting Algorithms
          B) Regression Algorithm      : Means Output label has Numerical/Quantitative data type
+             Types in regression Algorithms :
+             --------------------------------
+               > Linear Regression
+               > Lasso Regression
+               > Ridge Regression
+   
+   2) Unsupervised Learning : If data has no output label and there is no specific target we can call it as Supervised learning.
+       Unsupervised learning devided into 1 algorytm type :
+       ----------------------------------------------------
+           Cluster Algorithm : Cluster algorithms aim to discover hidden patterns in unlabeled data by grouping similar data points together. 
+                               Imagine sorting a basket of fruits without labels – a cluster algorithm would put apples with apples and oranges with oranges.
+           Example :  clothing store uses a cluster algorithm to analyze customer purchase history. It groups customers who buy similar clothes, helping personalize product recommendations.
+        Two main types of clustering algorithms :
+        -----------------------------------------
+           1) K-Means CLuster Algorithms (Centroid-Based Clustering) : 
+           2) Hierarchical Clustering Algorithms :
 
+    3) Reinforcement Learning : Reinforcement learning is a type of AI where an agent learns through trial and error in an environment.
+                                Imagine an agent playing a game, it receives rewards for good actions and penalties for bad ones.
+                                This is used for real-time tasks like training robots to navigate factories, optimizing traffic flow in cities, 
+                                and even personalizing recommendations for users on streaming services.
+      Technologies we use for Reinforcement Learning :
+      ------------------------------------------------
+         A) Deep Learning -------> Images
+         B) NLP  --------> Text (chatbot)  
+         C) AI Technologies 
+    
+Note : In ML how many algorithms we ahve to learn :
+----------------------------------------------------
+               1) Supervised Learning   : Classification (7) + Regression (3)
+               2) UnSupervised Learning : Cluster Algorithms (2).
+            Total : 12 Algorithms.
 Sorces : 
 ========
 https://www.youtube.com/watch?v=LNT3dqsELPI (Class-1)
