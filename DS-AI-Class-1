@@ -1,8 +1,8 @@
-Class -1 is a basics overview of the course details-concepts 
-
+# Class -1 : (Basic overview of the concepts)
+==============================================
 What is Datascience :
 ====================
-Data science is an interdisciplinary field focused on extracting insights from data using a combination of statistical, computational, and domain-specific knowledge. 
+  Data science is an interdisciplinary field focused on extracting insights from data using a combination of statistical, computational, and domain-specific knowledge. 
 It involves several steps and technologies:
 --------------------------------------------
   Data Collection: Gathering data from various sources such as databases, web scraping, and APIs.
